@@ -9,6 +9,11 @@ that names a service from a rule that merely matches an executable path, and
 shows where shared processes make endpoint ownership ambiguous. It supports
 inspection and informed review; it provides no rule or service controls.
 
+![Windows Firewall Dashboard illustration with fictional network details and statistics](.github/images/dashboard.png)
+
+*Illustrative preview edited with AI. Network details and statistics are
+fictional demonstration values.*
+
 ## Start the dashboard
 
 Requirements:
@@ -85,8 +90,9 @@ server logs request paths and statuses to its terminal, rather than snapshot
 contents. Information already displayed in an open browser page remains
 visible there until that page is closed or reloaded.
 
-This repository contains application source and synthetic association tests.
-The original machine screenshots and collected snapshots are excluded. The
+This repository contains application source, synthetic association tests, and
+an illustrative preview with fictional data. The original machine screenshots
+and collected snapshots are excluded. The
 [.gitignore](.gitignore) covers common captures, exports, local environment
 files, logs, and caches. Review file contents and screenshots before sharing;
 ignore patterns cannot recognize every form of private data.
