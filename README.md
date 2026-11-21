@@ -164,3 +164,11 @@ observed associations, and verified conclusions distinct. Review any new
 fixtures and documentation for machine identifiers before committing them.
 
 No standalone project license file is currently included.
+
+## Project directory and related work
+
+[Browse the dastardlyrat project directory](https://dastardlyrat.github.io/).
+
+- [LatticeSecurityDashboard](https://github.com/dastardlyrat/LatticeSecurityDashboard)
+- [WindowsSecuritySettingsExplorer](https://github.com/dastardlyrat/WindowsSecuritySettingsExplorer)
+- [WindowsPowerPlanExplorer](https://github.com/dastardlyrat/WindowsPowerPlanExplorer)
